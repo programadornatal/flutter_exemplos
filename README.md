@@ -16,7 +16,7 @@ Vários Exemplos de Flutter
 
 [Programador Radical](https://github.com/programadornatal)
 > 
-Se você gostar destes exemplos e quiser me agradecer, só me pagar um :coffee:
+Se você gostar destes exemplos, ficarei feliz em saber, e quiser me pague um :coffee:
 >
 
  - [PayPal](https://paypal.me/programadorradical)
