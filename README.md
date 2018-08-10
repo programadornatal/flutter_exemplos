@@ -14,16 +14,12 @@ Vários Exemplos de Flutter
 ### Criado e mantido por
 
 
-[Programador Radical](https://github.com/programadornatal)> 
-Se você gostar destes exemplos e quiser me agradecer, só me pagar um :coffee:
- rs>
+[Programador Radical](https://github.com/programadornatal)
+> 
+Se você gostar destes exemplos, ficarei feliz em saber, e quiser me pague um :coffee:
 >
 
- - [PayPal](https://www.paypal.me/nisrulz/5)
->
- - Bitcoin Address: 13PjuJcfVW2Ad81fawqwLtku4bZLv1AxCL
-
-
+ - [PayPal](https://paypal.me/programadorradical)
 
 # License
 
