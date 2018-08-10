@@ -2,7 +2,7 @@
 
 Configuração de projeto inicial
 
-![Image](images/exemplo.png {width=350px})
+![Image](images/exemplo.png)
 
 ## Getting Started
 
