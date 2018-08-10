@@ -10,6 +10,7 @@ Vários Exemplos de Flutter
 ## Examplos de Aplicativos
 
 1.  [Exemplo Basico](/exemplo_basico)
+2.  [Tela Splash](/splash_flutter)
 
 ### Criado e mantido por
 
