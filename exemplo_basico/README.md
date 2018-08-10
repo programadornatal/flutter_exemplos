@@ -1,8 +1,8 @@
-# exemplo_basico
+# Exemplo Flutter Basico
 
-Exemplo Flutter Basico
+Configuração de projeto inicial
 
-![Image](images/exemplo.png)
+![image](images/exemplo.png)
 
 ## Getting Started
 
