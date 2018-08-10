@@ -14,7 +14,8 @@ Vários Exemplos de Flutter
 ### Criado e mantido por
 
 
-[Programador Radical](https://github.com/programadornatal)> 
+[Programador Radical](https://github.com/programadornatal)
+> 
 Se você gostar destes exemplos e quiser me agradecer, só me pagar um :coffee:
 >
 
