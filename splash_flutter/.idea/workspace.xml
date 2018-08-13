@@ -42,7 +42,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="1409" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -70,22 +70,6 @@
             <path>
               <item name="splash_flutter" type="b2602c69:ProjectViewProjectNode" />
               <item name="splash_flutter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="splash_flutter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="splash_flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="splash_flutter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="splash_flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="splash_flutter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="splash_flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
