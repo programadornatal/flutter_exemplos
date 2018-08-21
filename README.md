@@ -13,6 +13,7 @@ Vários Exemplos de Flutter
 1.  [Tela Splash](/splash_flutter) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/splash_flutter)
 1.  [Tela Login](/tela_login) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/tela_login)
 1.  [Drawer Exemplo](/drawer_navigation) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/drawer_navigation)
+1.  [Get JSON](/getjson_flutter) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/getjson_flutter)
 
 
 ### Criado e mantido por
