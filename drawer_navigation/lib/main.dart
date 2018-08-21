@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:drawer_navigation/pages/home_page.dart';
 
 void main() => runApp(new MyApp());
 
@@ -7,9 +8,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: new Center(
-          child: new Text('Olá Mundo'),
-      )
+      home: HomePage()
     );
   }
 }
+
