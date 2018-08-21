@@ -2,7 +2,7 @@
 
 Nesse exemplo fiz um Drawer com menu e navegação entre páginas
 
-![image](images/foto1.png)![image](images/foto2.png)![image](images/foto3.png)
+![image](images/tela1.png) ![image](images/tela2.png)
 
 ## Getting Started
 
