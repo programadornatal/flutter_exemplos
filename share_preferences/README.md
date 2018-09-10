@@ -1,4 +1,4 @@
-# Fluter Share Preferences
+# Flutter Share Preferences
 
 Salvando preferencias do usuário localmente
 
