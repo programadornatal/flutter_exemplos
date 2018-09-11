@@ -15,6 +15,7 @@ Vários Exemplos de Flutter
 1.  [Drawer Exemplo](/drawer_navigation) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/drawer_navigation)
 1.  [Get JSON](/getjson_flutter) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/getjson_flutter)
 1.  [Share Preferences](/share_preferences) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/share_preferences)
+1.  [Flutter com Redux](/flutter_com_redux) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/flutter_com_redux)
 
 ## Muitos Exemplos de uso
 [Flutter Awesome](https://github.com/Solido/awesome-flutter)
