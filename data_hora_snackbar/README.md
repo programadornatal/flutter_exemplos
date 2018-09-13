@@ -3,7 +3,9 @@
 ![Image](images/tela.gif)
 
 lib utilizada
-- intl: ^0.15.7
+```
+intl: ^0.15.7
+```
 
 Exemplos:
 
