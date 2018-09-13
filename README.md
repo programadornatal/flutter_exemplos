@@ -16,7 +16,7 @@ Vários Exemplos de Flutter
 1.  [Get JSON](/getjson_flutter) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/getjson_flutter)
 1.  [Share Preferences](/share_preferences) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/share_preferences)
 1.  [Flutter com Redux](/flutter_com_redux) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/flutter_com_redux)
-1.  [Formata Data e Hora](/data_hora_snakbar) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/data_hora_snakbar)
+1.  [Formata Data e Hora](/data_hora_snackbar) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/data_hora_snackbar)
 1.  [Unicornio](/flutter_unicornio) [![download](images/download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/programadornatal/flutter_exemplos/tree/master/flutter_unicornio)
 
 ## Muitos Exemplos de uso
